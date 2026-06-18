@@ -2,7 +2,7 @@
 
 Implementación del algoritmo de cifrado **AES-128** (Advanced Encryption Standard) escrita completamente en Python puro, sin librerías criptográficas externas. Sigue la especificación oficial **FIPS-197** e incluye los modos de operación **ECB** y **CBC**.
 
-Desarrollado como trabajo práctico de la materia Criptografía.
+Desarrollado como trabajo práctico de la materia Matemática Aplicada.
 
 ---
 
